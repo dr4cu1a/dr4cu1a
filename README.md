@@ -11,8 +11,8 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-nang718ha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nang718ha)
-[![Profile Views](https://komarev.com/ghpvc/?username=nang718ha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/nang718ha)
+[![GitHub](https://img.shields.io/badge/GitHub-dr4cu1a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dr4cu1a)
+[![Profile Views](https://komarev.com/ghpvc/?username=dr4cu1a&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/dr4cu1a)
 
 </div>
 
@@ -80,7 +80,7 @@ class Dracu1a:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nang718ha&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dr4cu1a&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 ---
